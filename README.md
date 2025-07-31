@@ -40,3 +40,4 @@ El propósito principal es poner en práctica técnicas de intrusión, persisten
 | Sistema  | Usuarios con permisos sudo sin contraseña y archivos `shadow` accesibles |
 | Archivos | Manipulación de extensiones y compresión para ocultar datos |
 
+Si deseas explotar la maquina por ti mismo en el siguiente link la puedes descargar : https://drive.google.com/drive/folders/1YFV19nsgo-IdN9ijlZt3_00LJmI0o9Lj?usp=drive_link
