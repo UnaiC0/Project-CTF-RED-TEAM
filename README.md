@@ -1,4 +1,4 @@
-# Red Team CTF: Proyecto Final – Simulación de Compromiso en Infraestructura NASA
+# Red Team CTF: Proyecto Final especialización en Ciberseguridad en Entornos de las Tecnologías de la Información  – Simulación de Compromiso en Infraestructura NASA
 
 ## Descripción General
 
